@@ -18,12 +18,9 @@ Bem-vindo ao **Sistema de Gerenciamento de Almoxarifado**! Este projeto foi dese
 - **🔒 Autenticação de Usuários**: Apenas usuários autenticados têm acesso às funcionalidades administrativas.
 - **🖥️ API RESTful**: Comunicação eficiente entre frontend e backend por meio de API.
 
-## 📋 Instruções para Rodar o Projeto
+## Imagens
 
-### 1. Pré-requisitos
-
-Antes de começar, você vai precisar de:
-
-- **Node.js** e **npm** instalados 🔧
-- **MySQL** rodando no seu computador 💻
-
+![Tela](imagens/cadastrodeproduto.png)
+![Tela](imagens/cadastrodecategoria.png)
+![Tela](imagens/listaprod.png)
+![Tela](imagens/listcateg.png)
