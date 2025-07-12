@@ -1,6 +1,6 @@
 # 📦 Sistema de Gerenciamento de Almoxarifado 🛠️
 
-Bem-vindo ao **Sistema de Gerenciamento de Almoxarifado**! Este projeto foi desenvolvido com **React**, **Node.js** e **MySQL**, e tem como objetivo facilitar o controle de estoque de produtos de maneira simples e eficiente. 😎
+Bem-vindo ao **Sistema de Gerenciamento de Almoxarifado**! Este projeto foi desenvolvido com **React**, **Node.js** e **MySQL**, e tem como objetivo facilitar o controle de estoque de produtos de maneira simples e eficiente para os usuários. 😎
 
 ## 🚀 Tecnologias Utilizadas
 
